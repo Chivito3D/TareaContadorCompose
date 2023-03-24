@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TareaContadorCompose</string>
+    <string name="text_count_global">Global</string>
+</resources>
